@@ -1,15 +1,15 @@
-# Metro-Ticket-Generating-System-in-ServiceNow
+Metro-Ticket-Generating-System-in-ServiceNow
 Metro Ticket Generating System developed using ServiceNow
 
-# 🚇 Metro Ticket Generating System in ServiceNow
+ Metro Ticket Generating System in ServiceNow
 
-## 📌 Project Overview
+ Project Overview
 
 The Metro Ticket Generating System is a ServiceNow-based application developed to simplify and manage the process of metro ticket generation.
 
 The system provides a structured way to collect passenger and journey details and generate metro tickets based on the selected travel information. It helps reduce manual work and provides an organized process for managing metro ticket-related information.
 
-## 🎯 Objectives
+ Objectives
 
 The main objectives of this project are:
 
@@ -20,7 +20,7 @@ The main objectives of this project are:
 - To provide an organized platform for managing metro ticket requests.
 - To improve the efficiency and accessibility of the ticket generation process.
 
-## ⚙️ Key Features
+ Key Features
 
 - Passenger details management
 - Source and destination selection
@@ -32,7 +32,7 @@ The main objectives of this project are:
 - Easy access to ticket-related information
 - ServiceNow-based workflow and automation
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 - ServiceNow
 - JavaScript
@@ -43,7 +43,7 @@ The main objectives of this project are:
 - UI Policies
 - Workflows
 
-## 🔄 System Workflow
+ System Workflow
 
 The basic workflow of the system is:
 
@@ -54,24 +54,24 @@ The basic workflow of the system is:
 5. The ticket details are generated and stored.
 6. The generated ticket information can be viewed and managed through the ServiceNow system.
 
-## 🏗️ Project Modules
+ Project Modules
 
-### 1. Passenger Module
+ 1. Passenger Module
 Manages the basic details of passengers required for ticket generation.
 
-### 2. Journey Module
+ 2. Journey Module
 Handles journey-related information such as source, destination, and travel details.
 
-### 3. Ticket Generation Module
+ 3. Ticket Generation Module
 Processes the submitted information and generates the metro ticket.
 
-### 4. Data Management Module
+ 4. Data Management Module
 Stores and manages ticket and passenger information using ServiceNow tables.
 
-### 5. ServiceNow Automation
+ 5. ServiceNow Automation
 Uses ServiceNow platform features to automate and manage different parts of the application.
 
-## 📂 Project Contents
+ Project Contents
 
 This repository contains the project-related files, including:
 
@@ -84,7 +84,7 @@ This repository contains the project-related files, including:
 
 These files provide information about the different stages of the project development.
 
-## 🌟 Benefits
+Benefits
 
 - Reduces manual ticket processing.
 - Provides organized passenger and journey information.
@@ -93,7 +93,7 @@ These files provide information about the different stages of the project develo
 - Provides a centralized ServiceNow-based solution.
 - Improves the overall management of metro ticket information.
 
-## 🚀 Future Enhancements
+ Future Enhancements
 
 The system can be further enhanced by adding features such as:
 
@@ -105,10 +105,8 @@ The system can be further enhanced by adding features such as:
 - Ticket cancellation and refund management
 - Advanced reporting and analytics
 
-## 👩‍💻 Project Title
+ 
 
-**Metro Ticket Generating System in ServiceNow**
-
-## 📌 Conclusion
+ Conclusion
 
 The Metro Ticket Generating System demonstrates how the ServiceNow platform can be used to develop an organized and efficient ticket management application. The system simplifies ticket generation, manages passenger and journey information, and reduces manual processing through ServiceNow features and automation.
